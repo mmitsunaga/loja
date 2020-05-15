@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "657408250800",
+    "firebase_url": "https://loja-mm.firebaseio.com",
+    "project_id": "loja-mm",
+    "storage_bucket": "loja-mm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657408250800:android:818ff4d1039ec5c6487c75",
+        "android_client_info": {
+          "package_name": "br.com.app.loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657408250800-9960loc3q481h9o5d5ven5ib0h5c6j3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.app.loja",
+            "certificate_hash": "ffadff3edcb6e0123bd4bad3eb0746bc5fda8d42"
+          }
+        },
+        {
+          "client_id": "657408250800-qn3uplps0pm03ssmk9dr4fi02bs60rf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9rTUvC2TUfcpTpzFOauy8uDBiWxekLw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657408250800-qn3uplps0pm03ssmk9dr4fi02bs60rf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
